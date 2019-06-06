@@ -1,0 +1,22 @@
+Files:
+
+SQL:
+Movie_EER_6_1: SQL relational table DDL
+movie_snowflake_DDL: SQL dimentional table DDL
+movie_snowflake_DML: SQL dimentional table DML
+
+Python:
+Data processing:
+movie_cast_generator
+movie_genre_generator
+movie_language_generator
+movie_production_company_generator
+movie_production_country_generator
+rating_generator
+
+Data analysis:
+DEP_FinalProject_PythonAnalysis
+
+
+Tableau:
+Final Project Tableau_final
