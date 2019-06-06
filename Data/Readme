@@ -1,0 +1,2 @@
+All tables have corresponding tables in the SQL relational database. 
+We use GCP to load the data into SQL.
