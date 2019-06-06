@@ -3,6 +3,11 @@ SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE= 'ALLOW_INVALID_DATES';
 
+<<<<<<< HEAD
+# SET FOREIGN_KEY_CHECKS = 0;
+=======
+
+>>>>>>> cf02e5cbe0a6675efb60aeb5a88b2c8bf9ae96d4
 -- -----------------------------------------------------
 -- Schema movie
 -- -----------------------------------------------------
