@@ -1,7 +1,7 @@
 Files:
 
 SQL:
-Movie_EER_6_1: SQL relational table script
+Movie_EER_6_1: SQL relational table DDL
 movie_snowflake_DDL: SQL dimentional table DDL
 movie_snowflake_DML: SQL dimentional table DML
 
