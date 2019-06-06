@@ -7,7 +7,7 @@
 ## Movie Industry Statistical Analysis
 #### Data Source: https://www.kaggle.com/rounakbanik/the-movies-dataset
 
-![image](avengers.jpg)
+![image](Output/avengers.jpg)
 #### Description
 Blockbuster movies always catch moviegoers eyes and bring a significant amount of cash to investors, but it is also high-risk associated with such investment. Our statistical analysis and visualization want to provide some insights to investors.
 Data engineering function is our main purpose including data cleaning, storage, and normalization which are implemented by using Python and MySQL.
