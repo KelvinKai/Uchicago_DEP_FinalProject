@@ -1,2 +1,9 @@
 All tables have corresponding tables in the SQL relational database. 
 We use GCP to load the data into SQL.
+
+
+NOTE:
+
+genre_old and movie_genre_old are files original from raw data, but the keys are not logical. Thus, we modified its key and regenerate a sequence of keys for genres. 
+Therefore, genre and movie_genre are tables we loaded into SQL.
+
