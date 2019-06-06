@@ -18,3 +18,5 @@ In order to save time and achieve efficient collaboration, use Goold Cloud Platf
 #### Data: cleaned data stored as csv
 #### Doc: python and SQL script
 #### Output: all output images and presentation slides
+
+Output/DEP_Movies_Final.pdf
