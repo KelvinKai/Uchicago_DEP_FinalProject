@@ -7,12 +7,12 @@
 ## Movie Industry Statistical Analysis
 #### Data Source: https://www.kaggle.com/rounakbanik/the-movies-dataset
 
-## Description
+#### Description
 Blockbuster movies always catch moviegoers eyes and bring a significant amount of cash to investors, but it is also high-risk associated with such investment. Our statistical analysis and visualization want to provide some insights to investors.
 Data engineering function is our main purpose including data cleaning, storage, and normalization which are implemented by using Python and MySQL.
 Data analysis and visualization are finished by using python and Tableau and provide basic idea about NoSQL databases such as MongoDB and Neo4j to give a sense of how document-oriented and graph database work.
 
-## File storage
-## Data: cleaned data stored as csv
-## Doc: python and SQL script
-## Output: all output images and presentation slides
+#### File storage
+#### Data: cleaned data stored as csv
+#### Doc: python and SQL script
+#### Output: all output images and presentation slides
